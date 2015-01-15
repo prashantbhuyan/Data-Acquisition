@@ -1,6 +1,6 @@
 # Prashant B. Bhuyan
-# is607 Assignment 2
-# September 7, 2014
+# 9.7.2014
+# Data Aquisition & Management ass_2
 
 ##### Question 1 #####
 
